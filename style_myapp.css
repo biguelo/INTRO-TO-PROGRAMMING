@@ -1,0 +1,45 @@
+* {
+		box-size:border-box;
+	}
+
+/*
+	.app {
+		display: flex;
+		flex-direction:row;
+		justify-content:center;
+	}
+
+	.screenshot {
+		background-color: red;
+		width:20%;
+		height: 100px;
+		margin:20px;
+
+	}
+
+	.description {
+		background-color: gray;
+		width:35%;
+		margin:20px;	
+	}
+	*/
+
+	.app {
+		border: solid red;
+		display: flex;
+	}
+
+	.title {
+		background-color: #33bebe;
+	}
+
+	.screenshot {
+		max-width: 460px;
+		border: solid red;
+		margin-right: 10px;
+	}
+
+	.description {
+		max-width: 705px;
+		border: solid red;
+	}

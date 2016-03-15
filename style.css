@@ -1,0 +1,49 @@
+/* This is the CSS for My Page */
+
+body {
+	background: white;
+}
+
+h1 {
+	color: #294860;
+	text-align: center;
+	font-size: 35px;
+}
+
+.main-section {
+	background: #294860;
+	border-radius: 3%;
+	padding:10px;
+	width: 980px;
+	margin-left: auto;
+	margin-right: auto;
+	margin-bottom: 10px;
+}
+
+.concepts {
+	background: #DFEAF1;
+	padding:5px;
+	border-radius: 3px;
+	margin:10px;
+}
+
+.concept-title {
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+	color: #294860;
+	margin:0px;
+}
+
+.italic {
+	font-style: italic;
+}
+
+.bold {
+	font-weight: bold;
+}
+
+.section-header {
+	color:white;
+	margin:10px;
+}
